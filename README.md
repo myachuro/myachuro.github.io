@@ -22,6 +22,7 @@
             <div class="index-button">Разместить объявление</div>
         
         </div>
+
         
         <div class="index-header">
             <img class="header-logo" src="https://www.avito.ru/b2b-hub/resources/images/eRJwjBQZHJ9JuVO6pwPlZZiisbgLBTSh0XktobU4.png" alt="Логотип">
@@ -44,6 +45,9 @@
         </div>
         <div class="login-button">
             Зарегистрироваться
+        </div>
+        <div class="call-button">
+            Заказать звонок
         </div>
     </div>
 </body>
